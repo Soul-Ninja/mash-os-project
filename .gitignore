@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.coverage
+.mash_history
+benchmark-results.json
